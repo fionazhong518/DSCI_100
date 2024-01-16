@@ -1,0 +1,2 @@
+# DSCI_100
+DSCI 100 Fall 23 Term 1 
